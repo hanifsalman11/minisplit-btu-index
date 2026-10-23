@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "system_name": "MRCOOL DIY 4th Gen 12000 BTU 22 SEER2",
+    "slug": "mrcool-diy-4th-gen-12000-btu-22-seer2-btu-cost-calculator",
+    "title": "MRCOOL DIY 4th Gen 12000 BTU 22 SEER2 BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($13.6/mo), running watts (545W), and NEC breaker size (20A 115V) for the MRCOOL DIY 4th Gen 12000 BTU 22 SEER2.",
+    "btu": 12000,
+    "seer2": 22.0,
+    "sqft": 500,
+    "date": "2026-10-23"
+  },
+  {
+    "system_name": "MRCOOL DIY 4th Gen 18000 BTU 20.5 SEER2",
+    "slug": "mrcool-diy-4th-gen-18000-btu-205-seer2-btu-cost-calculator",
+    "title": "MRCOOL DIY 4th Gen 18000 BTU 20.5 SEER2 BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the MRCOOL DIY 4th Gen 18000 BTU 20.5 SEER2.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 750,
+    "date": "2026-10-23"
+  },
+  {
+    "system_name": "MRCOOL DIY 4th Gen 24000 BTU 20.5 SEER2",
+    "slug": "mrcool-diy-4th-gen-24000-btu-205-seer2-btu-cost-calculator",
+    "title": "MRCOOL DIY 4th Gen 24000 BTU 20.5 SEER2 BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1000 sq ft), monthly SEER2 electricity cost ($29.28/mo), running watts (1171W), and NEC breaker size (25A 230V) for the MRCOOL DIY 4th Gen 24000 BTU 20.5 SEER2.",
+    "btu": 24000,
+    "seer2": 20.5,
+    "sqft": 1000,
+    "date": "2026-10-23"
+  }
+]
