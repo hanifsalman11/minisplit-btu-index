@@ -58,5 +58,35 @@
     "seer2": 22.0,
     "sqft": 750,
     "date": "2026-10-23"
+  },
+  {
+    "system_name": "Senville AURA 24000 BTU Arctic Heat Pump",
+    "slug": "senville-aura-24000-btu-arctic-heat-pump-btu-cost-calculator",
+    "title": "Senville AURA 24000 BTU Arctic Heat Pump BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1000 sq ft), monthly SEER2 electricity cost ($28.48/mo), running watts (1143W), and NEC breaker size (25A 230V) for the Senville AURA 24000 BTU Arctic Heat Pump.",
+    "btu": 24000,
+    "seer2": 21.0,
+    "sqft": 1000,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Pioneer Diamante Ultra 12000 BTU 20 SEER2",
+    "slug": "pioneer-diamante-ultra-12000-btu-20-seer2-btu-cost-calculator",
+    "title": "Pioneer Diamante Ultra 12000 BTU 20 SEER2 BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($15.04/mo), running watts (600W), and NEC breaker size (20A 115V) for the Pioneer Diamante Ultra 12000 BTU 20 SEER2.",
+    "btu": 12000,
+    "seer2": 20.0,
+    "sqft": 500,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Pioneer Diamante Pro 18000 BTU 230V",
+    "slug": "pioneer-diamante-pro-18000-btu-230v-btu-cost-calculator",
+    "title": "Pioneer Diamante Pro 18000 BTU 230V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Pioneer Diamante Pro 18000 BTU 230V.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 750,
+    "date": "2026-10-24"
   }
 ]
