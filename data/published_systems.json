@@ -148,5 +148,35 @@
     "seer2": 22.0,
     "sqft": 500,
     "date": "2026-10-24"
+  },
+  {
+    "system_name": "TOSOT Apex 24000 BTU Ultra-Heat -22F",
+    "slug": "tosot-apex-24000-btu-ultra-heat-22f-btu-cost-calculator",
+    "title": "TOSOT Apex 24000 BTU Ultra-Heat -22F BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1000 sq ft), monthly SEER2 electricity cost ($29.28/mo), running watts (1171W), and NEC breaker size (25A 230V) for the TOSOT Apex 24000 BTU Ultra-Heat -22F.",
+    "btu": 24000,
+    "seer2": 20.5,
+    "sqft": 1000,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Mitsubishi M-Series MUZ-FS12NA 12000 BTU",
+    "slug": "mitsubishi-m-series-muz-fs12na-12000-btu-btu-cost-calculator",
+    "title": "Mitsubishi M-Series MUZ-FS12NA 12000 BTU BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (550 sq ft), monthly SEER2 electricity cost ($12.96/mo), running watts (519W), and NEC breaker size (15A 230V) for the Mitsubishi M-Series MUZ-FS12NA 12000 BTU.",
+    "btu": 12000,
+    "seer2": 23.1,
+    "sqft": 550,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Mitsubishi MXZ-3C24NAHZ4 24000 BTU 3-Zone",
+    "slug": "mitsubishi-mxz-3c24nahz4-24000-btu-3-zone-btu-cost-calculator",
+    "title": "Mitsubishi MXZ-3C24NAHZ4 24000 BTU 3-Zone BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1100 sq ft), monthly SEER2 electricity cost ($29.92/mo), running watts (1200W), and NEC breaker size (30A 230V) for the Mitsubishi MXZ-3C24NAHZ4 24000 BTU 3-Zone.",
+    "btu": 24000,
+    "seer2": 20.0,
+    "sqft": 1100,
+    "date": "2026-10-24"
   }
 ]
