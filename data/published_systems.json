@@ -118,5 +118,35 @@
     "seer2": 21.5,
     "sqft": 750,
     "date": "2026-10-24"
+  },
+  {
+    "system_name": "Della Optima 12000 BTU WiFi Inverter",
+    "slug": "della-optima-12000-btu-wifi-inverter-btu-cost-calculator",
+    "title": "Della Optima 12000 BTU WiFi Inverter BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($15.04/mo), running watts (600W), and NEC breaker size (20A 115V) for the Della Optima 12000 BTU WiFi Inverter.",
+    "btu": 12000,
+    "seer2": 20.0,
+    "sqft": 500,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Della Vario 18000 BTU 19 SEER2 230V",
+    "slug": "della-vario-18000-btu-19-seer2-230v-btu-cost-calculator",
+    "title": "Della Vario 18000 BTU 19 SEER2 230V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($23.68/mo), running watts (947W), and NEC breaker size (20A 230V) for the Della Vario 18000 BTU 19 SEER2 230V.",
+    "btu": 18000,
+    "seer2": 19.0,
+    "sqft": 750,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "TOSOT Muse 12000 BTU 22 SEER2 Gree Inverter",
+    "slug": "tosot-muse-12000-btu-22-seer2-gree-inverter-btu-cost-calculator",
+    "title": "TOSOT Muse 12000 BTU 22 SEER2 Gree Inverter BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($13.6/mo), running watts (545W), and NEC breaker size (15A 230V) for the TOSOT Muse 12000 BTU 22 SEER2 Gree Inverter.",
+    "btu": 12000,
+    "seer2": 22.0,
+    "sqft": 500,
+    "date": "2026-10-24"
   }
 ]
