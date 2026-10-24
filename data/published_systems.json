@@ -88,5 +88,35 @@
     "seer2": 20.5,
     "sqft": 750,
     "date": "2026-10-24"
+  },
+  {
+    "system_name": "Pioneer Hyperformance 24000 BTU 21.5 SEER2",
+    "slug": "pioneer-hyperformance-24000-btu-215-seer2-btu-cost-calculator",
+    "title": "Pioneer Hyperformance 24000 BTU 21.5 SEER2 BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1000 sq ft), monthly SEER2 electricity cost ($27.84/mo), running watts (1116W), and NEC breaker size (25A 230V) for the Pioneer Hyperformance 24000 BTU 21.5 SEER2.",
+    "btu": 24000,
+    "seer2": 21.5,
+    "sqft": 1000,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Cooper & Hunter Sophia 12000 BTU 22.5 SEER2",
+    "slug": "cooper-hunter-sophia-12000-btu-225-seer2-btu-cost-calculator",
+    "title": "Cooper & Hunter Sophia 12000 BTU 22.5 SEER2 BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($13.28/mo), running watts (533W), and NEC breaker size (15A 230V) for the Cooper & Hunter Sophia 12000 BTU 22.5 SEER2.",
+    "btu": 12000,
+    "seer2": 22.5,
+    "sqft": 500,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Cooper & Hunter Hyper Heat 18000 BTU -22F",
+    "slug": "cooper-hunter-hyper-heat-18000-btu-22f-btu-cost-calculator",
+    "title": "Cooper & Hunter Hyper Heat 18000 BTU -22F BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($20.96/mo), running watts (837W), and NEC breaker size (20A 230V) for the Cooper & Hunter Hyper Heat 18000 BTU -22F.",
+    "btu": 18000,
+    "seer2": 21.5,
+    "sqft": 750,
+    "date": "2026-10-24"
   }
 ]
