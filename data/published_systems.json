@@ -178,5 +178,35 @@
     "seer2": 20.0,
     "sqft": 1100,
     "date": "2026-10-24"
+  },
+  {
+    "system_name": "Daikin ENTRA 12000 BTU 18 SEER2 Wall Mount",
+    "slug": "daikin-entra-12000-btu-18-seer2-wall-mount-btu-cost-calculator",
+    "title": "Daikin ENTRA 12000 BTU 18 SEER2 Wall Mount BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($16.64/mo), running watts (667W), and NEC breaker size (15A 230V) for the Daikin ENTRA 12000 BTU 18 SEER2 Wall Mount.",
+    "btu": 12000,
+    "seer2": 18.0,
+    "sqft": 500,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Daikin AURORA 18000 BTU Cold Climate",
+    "slug": "daikin-aurora-18000-btu-cold-climate-btu-cost-calculator",
+    "title": "Daikin AURORA 18000 BTU Cold Climate BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($22.4/mo), running watts (900W), and NEC breaker size (20A 230V) for the Daikin AURORA 18000 BTU Cold Climate.",
+    "btu": 18000,
+    "seer2": 20.0,
+    "sqft": 750,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Fujitsu Halcyon 12LZAS1 12000 BTU 29.4 SEER2",
+    "slug": "fujitsu-halcyon-12lzas1-12000-btu-294-seer2-btu-cost-calculator",
+    "title": "Fujitsu Halcyon 12LZAS1 12000 BTU 29.4 SEER2 BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (550 sq ft), monthly SEER2 electricity cost ($10.24/mo), running watts (408W), and NEC breaker size (15A 230V) for the Fujitsu Halcyon 12LZAS1 12000 BTU 29.4 SEER2.",
+    "btu": 12000,
+    "seer2": 29.4,
+    "sqft": 550,
+    "date": "2026-10-25"
   }
 ]
