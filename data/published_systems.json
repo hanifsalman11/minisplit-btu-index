@@ -238,5 +238,35 @@
     "seer2": 19.0,
     "sqft": 350,
     "date": "2026-10-25"
+  },
+  {
+    "system_name": "ROVUS / RovSun 18000 BTU 230V Split AC",
+    "slug": "rovus-rovsun-18000-btu-230v-split-ac-btu-cost-calculator",
+    "title": "ROVUS / RovSun 18000 BTU 230V Split AC BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($23.68/mo), running watts (947W), and NEC breaker size (20A 230V) for the ROVUS / RovSun 18000 BTU 230V Split AC.",
+    "btu": 18000,
+    "seer2": 19.0,
+    "sqft": 750,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "EG4 Hybrid Solar 12000 BTU AC/DC Mini Split",
+    "slug": "eg4-hybrid-solar-12000-btu-acdc-mini-split-btu-cost-calculator",
+    "title": "EG4 Hybrid Solar 12000 BTU AC/DC Mini Split BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($13.6/mo), running watts (545W), and NEC breaker size (20A 115V) for the EG4 Hybrid Solar 12000 BTU AC/DC Mini Split.",
+    "btu": 12000,
+    "seer2": 22.0,
+    "sqft": 500,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "EG4 Hybrid Solar 24000 BTU Off-Grid Heat Pump",
+    "slug": "eg4-hybrid-solar-24000-btu-off-grid-heat-pump-btu-cost-calculator",
+    "title": "EG4 Hybrid Solar 24000 BTU Off-Grid Heat Pump BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1000 sq ft), monthly SEER2 electricity cost ($28.48/mo), running watts (1143W), and NEC breaker size (25A 230V) for the EG4 Hybrid Solar 24000 BTU Off-Grid Heat Pump.",
+    "btu": 24000,
+    "seer2": 21.0,
+    "sqft": 1000,
+    "date": "2026-10-25"
   }
 ]
