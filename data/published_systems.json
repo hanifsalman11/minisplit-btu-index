@@ -268,5 +268,35 @@
     "seer2": 21.0,
     "sqft": 1000,
     "date": "2026-10-25"
+  },
+  {
+    "system_name": "Two-Car Garage Workshop (600 Sq Ft)",
+    "slug": "two-car-garage-workshop-600-sq-ft-btu-cost-calculator",
+    "title": "Two-Car Garage Workshop (600 Sq Ft) BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (600 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Two-Car Garage Workshop (600 Sq Ft).",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 600,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Three-Car Insulated Shop (950 Sq Ft)",
+    "slug": "three-car-insulated-shop-950-sq-ft-btu-cost-calculator",
+    "title": "Three-Car Insulated Shop (950 Sq Ft) BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (950 sq ft), monthly SEER2 electricity cost ($29.28/mo), running watts (1171W), and NEC breaker size (25A 230V) for the Three-Car Insulated Shop (950 Sq Ft).",
+    "btu": 24000,
+    "seer2": 20.5,
+    "sqft": 950,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Four-Season Sunroom & Enclosed Patio (400 Sq Ft)",
+    "slug": "four-season-sunroom-enclosed-patio-400-sq-ft-btu-cost-calculator",
+    "title": "Four-Season Sunroom & Enclosed Patio (400 Sq Ft) BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (400 sq ft), monthly SEER2 electricity cost ($17.76/mo), running watts (714W), and NEC breaker size (20A 230V) for the Four-Season Sunroom & Enclosed Patio (400 Sq Ft).",
+    "btu": 15000,
+    "seer2": 21.0,
+    "sqft": 400,
+    "date": "2026-10-25"
   }
 ]
