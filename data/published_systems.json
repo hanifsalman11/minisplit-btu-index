@@ -358,5 +358,35 @@
     "seer2": 20.5,
     "sqft": 480,
     "date": "2026-10-26"
+  },
+  {
+    "system_name": "Mrcool Diy 18000 Btu",
+    "slug": "mrcool-diy-18000-btu-btu-cost-calculator",
+    "title": "Mrcool Diy 18000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Mrcool Diy 18000 Btu.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 720,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "Mrcool Diy 18000 Btu Mini Split",
+    "slug": "mrcool-diy-18000-btu-mini-split-btu-cost-calculator",
+    "title": "Mrcool Diy 18000 Btu Mini Split BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Mrcool Diy 18000 Btu Mini Split.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 720,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "Mrcool Diy 24000 Btu",
+    "slug": "mrcool-diy-24000-btu-btu-cost-calculator",
+    "title": "Mrcool Diy 24000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (960 sq ft), monthly SEER2 electricity cost ($29.28/mo), running watts (1171W), and NEC breaker size (25A 230V) for the Mrcool Diy 24000 Btu.",
+    "btu": 24000,
+    "seer2": 20.5,
+    "sqft": 960,
+    "date": "2026-10-26"
   }
 ]
