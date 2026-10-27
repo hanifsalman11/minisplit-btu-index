@@ -388,5 +388,35 @@
     "seer2": 20.5,
     "sqft": 960,
     "date": "2026-10-26"
+  },
+  {
+    "system_name": "Mrcool Diy 9000 Btu Mini Split",
+    "slug": "mrcool-diy-9000-btu-mini-split-btu-cost-calculator",
+    "title": "Mrcool Diy 9000 Btu Mini Split BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (360 sq ft), monthly SEER2 electricity cost ($10.88/mo), running watts (439W), and NEC breaker size (20A 115V) for the Mrcool Diy 9000 Btu Mini Split.",
+    "btu": 9000,
+    "seer2": 20.5,
+    "sqft": 360,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "Senville Mini Split Btu Chart",
+    "slug": "senville-mini-split-btu-chart-btu-cost-calculator",
+    "title": "Senville Mini Split Btu Chart BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Senville Mini Split Btu Chart.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 720,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "Senville Mini Split 12000 Btu",
+    "slug": "senville-mini-split-12000-btu-btu-cost-calculator",
+    "title": "Senville Mini Split 12000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (480 sq ft), monthly SEER2 electricity cost ($14.56/mo), running watts (585W), and NEC breaker size (20A 115V) for the Senville Mini Split 12000 Btu.",
+    "btu": 12000,
+    "seer2": 20.5,
+    "sqft": 480,
+    "date": "2026-10-27"
   }
 ]
