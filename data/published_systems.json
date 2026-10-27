@@ -448,5 +448,35 @@
     "seer2": 20.5,
     "sqft": 360,
     "date": "2026-10-27"
+  },
+  {
+    "system_name": "Senville Mini Split 36000 Btu",
+    "slug": "senville-mini-split-36000-btu-btu-cost-calculator",
+    "title": "Senville Mini Split 36000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1440 sq ft), monthly SEER2 electricity cost ($43.84/mo), running watts (1756W), and NEC breaker size (25A 230V) for the Senville Mini Split 36000 Btu.",
+    "btu": 36000,
+    "seer2": 20.5,
+    "sqft": 1440,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "Senville Mini Split 12000 Btu 220V",
+    "slug": "senville-mini-split-12000-btu-220v-btu-cost-calculator",
+    "title": "Senville Mini Split 12000 Btu 220V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (480 sq ft), monthly SEER2 electricity cost ($14.56/mo), running watts (585W), and NEC breaker size (20A 115V) for the Senville Mini Split 12000 Btu 220V.",
+    "btu": 12000,
+    "seer2": 20.5,
+    "sqft": 480,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "Senville Mini Split 30000 Btu",
+    "slug": "senville-mini-split-30000-btu-btu-cost-calculator",
+    "title": "Senville Mini Split 30000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Senville Mini Split 30000 Btu.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 720,
+    "date": "2026-10-27"
   }
 ]
