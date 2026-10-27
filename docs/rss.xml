@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/minisplit-btu-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Senville Mini Split 9000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-9000-btu-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-9000-btu-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (360 sq ft), monthly SEER2 electricity cost ($10.88/mo), running watts (439W), and NEC breaker size (20A 115V) for the Senville Mini Split 9000 Btu.</description>
+    </item>
+    <item>
+      <title>Senville Mini Split 24000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-24000-btu-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-24000-btu-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (960 sq ft), monthly SEER2 electricity cost ($29.28/mo), running watts (1171W), and NEC breaker size (25A 230V) for the Senville Mini Split 24000 Btu.</description>
+    </item>
+    <item>
+      <title>Senville Mini Split 18000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-18000-btu-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-18000-btu-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Senville Mini Split 18000 Btu.</description>
+    </item>
+    <item>
       <title>Senville Mini Split 12000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-12000-btu-btu-cost-calculator.html</link>
       <guid>https://hanifsalman11.github.io/minisplit-btu-index/senville-mini-split-12000-btu-btu-cost-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/minisplit-btu-index/tosot-apex-24000-btu-ultra-heat-22f-btu-cost-calculator.html</link>
       <guid>https://hanifsalman11.github.io/minisplit-btu-index/tosot-apex-24000-btu-ultra-heat-22f-btu-cost-calculator.html</guid>
       <description>Calculate room coverage (1000 sq ft), monthly SEER2 electricity cost ($29.28/mo), running watts (1171W), and NEC breaker size (25A 230V) for the TOSOT Apex 24000 BTU Ultra-Heat -22F.</description>
-    </item>
-    <item>
-      <title>TOSOT Muse 12000 BTU 22 SEER2 Gree Inverter BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/tosot-muse-12000-btu-22-seer2-gree-inverter-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/tosot-muse-12000-btu-22-seer2-gree-inverter-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($13.6/mo), running watts (545W), and NEC breaker size (15A 230V) for the TOSOT Muse 12000 BTU 22 SEER2 Gree Inverter.</description>
-    </item>
-    <item>
-      <title>Della Vario 18000 BTU 19 SEER2 230V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/della-vario-18000-btu-19-seer2-230v-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/della-vario-18000-btu-19-seer2-230v-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($23.68/mo), running watts (947W), and NEC breaker size (20A 230V) for the Della Vario 18000 BTU 19 SEER2 230V.</description>
-    </item>
-    <item>
-      <title>Della Optima 12000 BTU WiFi Inverter BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/della-optima-12000-btu-wifi-inverter-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/della-optima-12000-btu-wifi-inverter-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($15.04/mo), running watts (600W), and NEC breaker size (20A 115V) for the Della Optima 12000 BTU WiFi Inverter.</description>
     </item>
   </channel>
 </rss>
