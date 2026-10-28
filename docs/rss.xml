@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/minisplit-btu-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Pioneer Mini Split 9000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-9000-btu-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-9000-btu-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (360 sq ft), monthly SEER2 electricity cost ($10.88/mo), running watts (439W), and NEC breaker size (20A 115V) for the Pioneer Mini Split 9000 Btu.</description>
+    </item>
+    <item>
+      <title>Pioneer Mini Split 24000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-24000-btu-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-24000-btu-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (960 sq ft), monthly SEER2 electricity cost ($29.28/mo), running watts (1171W), and NEC breaker size (25A 230V) for the Pioneer Mini Split 24000 Btu.</description>
+    </item>
+    <item>
+      <title>Pioneer Mini Split 18000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-18000-btu-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-18000-btu-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Pioneer Mini Split 18000 Btu.</description>
+    </item>
+    <item>
       <title>Pioneer Mini Split 12000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-12000-btu-btu-cost-calculator.html</link>
       <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-12000-btu-btu-cost-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/minisplit-btu-index/rovus-rovsun-18000-btu-230v-split-ac-btu-cost-calculator.html</link>
       <guid>https://hanifsalman11.github.io/minisplit-btu-index/rovus-rovsun-18000-btu-230v-split-ac-btu-cost-calculator.html</guid>
       <description>Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($23.68/mo), running watts (947W), and NEC breaker size (20A 230V) for the ROVUS / RovSun 18000 BTU 230V Split AC.</description>
-    </item>
-    <item>
-      <title>Costway 9000 BTU 19 SEER2 115V Mini Split BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/costway-9000-btu-19-seer2-115v-mini-split-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/costway-9000-btu-19-seer2-115v-mini-split-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (350 sq ft), monthly SEER2 electricity cost ($11.84/mo), running watts (474W), and NEC breaker size (15A 115V) for the Costway 9000 BTU 19 SEER2 115V Mini Split.</description>
-    </item>
-    <item>
-      <title>Gree Sapphire 12000 BTU 28 SEER2 Extreme BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/gree-sapphire-12000-btu-28-seer2-extreme-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/gree-sapphire-12000-btu-28-seer2-extreme-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (550 sq ft), monthly SEER2 electricity cost ($10.72/mo), running watts (429W), and NEC breaker size (15A 230V) for the Gree Sapphire 12000 BTU 28 SEER2 Extreme.</description>
-    </item>
-    <item>
-      <title>LG Art Cool Mirror 12000 BTU Dual Inverter BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/lg-art-cool-mirror-12000-btu-dual-inverter-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/lg-art-cool-mirror-12000-btu-dual-inverter-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($13.6/mo), running watts (545W), and NEC breaker size (15A 230V) for the LG Art Cool Mirror 12000 BTU Dual Inverter.</description>
     </item>
   </channel>
 </rss>
