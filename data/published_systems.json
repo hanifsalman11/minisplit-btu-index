@@ -538,5 +538,35 @@
     "seer2": 20.5,
     "sqft": 360,
     "date": "2026-10-28"
+  },
+  {
+    "system_name": "Pioneer Mini Split 36000 Btu",
+    "slug": "pioneer-mini-split-36000-btu-btu-cost-calculator",
+    "title": "Pioneer Mini Split 36000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (1440 sq ft), monthly SEER2 electricity cost ($43.84/mo), running watts (1756W), and NEC breaker size (25A 230V) for the Pioneer Mini Split 36000 Btu.",
+    "btu": 36000,
+    "seer2": 20.5,
+    "sqft": 1440,
+    "date": "2026-10-28"
+  },
+  {
+    "system_name": "Pioneer Mini Split 12000 Btu 115V",
+    "slug": "pioneer-mini-split-12000-btu-115v-btu-cost-calculator",
+    "title": "Pioneer Mini Split 12000 Btu 115V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (480 sq ft), monthly SEER2 electricity cost ($14.56/mo), running watts (585W), and NEC breaker size (20A 115V) for the Pioneer Mini Split 12000 Btu 115V.",
+    "btu": 12000,
+    "seer2": 20.5,
+    "sqft": 480,
+    "date": "2026-10-28"
+  },
+  {
+    "system_name": "Pioneer Mini Split 9000 Btu 110V",
+    "slug": "pioneer-mini-split-9000-btu-110v-btu-cost-calculator",
+    "title": "Pioneer Mini Split 9000 Btu 110V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (360 sq ft), monthly SEER2 electricity cost ($10.88/mo), running watts (439W), and NEC breaker size (20A 115V) for the Pioneer Mini Split 9000 Btu 110V.",
+    "btu": 9000,
+    "seer2": 20.5,
+    "sqft": 360,
+    "date": "2026-10-28"
   }
 ]

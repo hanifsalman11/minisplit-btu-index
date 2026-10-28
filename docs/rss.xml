@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/minisplit-btu-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Pioneer Mini Split 9000 Btu 110V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-9000-btu-110v-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-9000-btu-110v-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (360 sq ft), monthly SEER2 electricity cost ($10.88/mo), running watts (439W), and NEC breaker size (20A 115V) for the Pioneer Mini Split 9000 Btu 110V.</description>
+    </item>
+    <item>
+      <title>Pioneer Mini Split 12000 Btu 115V BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-12000-btu-115v-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-12000-btu-115v-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (480 sq ft), monthly SEER2 electricity cost ($14.56/mo), running watts (585W), and NEC breaker size (20A 115V) for the Pioneer Mini Split 12000 Btu 115V.</description>
+    </item>
+    <item>
+      <title>Pioneer Mini Split 36000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-36000-btu-btu-cost-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-36000-btu-btu-cost-calculator.html</guid>
+      <description>Calculate room coverage (1440 sq ft), monthly SEER2 electricity cost ($43.84/mo), running watts (1756W), and NEC breaker size (25A 230V) for the Pioneer Mini Split 36000 Btu.</description>
+    </item>
+    <item>
       <title>Pioneer Mini Split 9000 Btu BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-9000-btu-btu-cost-calculator.html</link>
       <guid>https://hanifsalman11.github.io/minisplit-btu-index/pioneer-mini-split-9000-btu-btu-cost-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/minisplit-btu-index/two-car-garage-workshop-600-sq-ft-btu-cost-calculator.html</link>
       <guid>https://hanifsalman11.github.io/minisplit-btu-index/two-car-garage-workshop-600-sq-ft-btu-cost-calculator.html</guid>
       <description>Calculate room coverage (600 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the Two-Car Garage Workshop (600 Sq Ft).</description>
-    </item>
-    <item>
-      <title>EG4 Hybrid Solar 24000 BTU Off-Grid Heat Pump BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/eg4-hybrid-solar-24000-btu-off-grid-heat-pump-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/eg4-hybrid-solar-24000-btu-off-grid-heat-pump-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (1000 sq ft), monthly SEER2 electricity cost ($28.48/mo), running watts (1143W), and NEC breaker size (25A 230V) for the EG4 Hybrid Solar 24000 BTU Off-Grid Heat Pump.</description>
-    </item>
-    <item>
-      <title>EG4 Hybrid Solar 12000 BTU AC/DC Mini Split BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/eg4-hybrid-solar-12000-btu-acdc-mini-split-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/eg4-hybrid-solar-12000-btu-acdc-mini-split-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (500 sq ft), monthly SEER2 electricity cost ($13.6/mo), running watts (545W), and NEC breaker size (20A 115V) for the EG4 Hybrid Solar 12000 BTU AC/DC Mini Split.</description>
-    </item>
-    <item>
-      <title>ROVUS / RovSun 18000 BTU 230V Split AC BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/minisplit-btu-index/rovus-rovsun-18000-btu-230v-split-ac-btu-cost-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/minisplit-btu-index/rovus-rovsun-18000-btu-230v-split-ac-btu-cost-calculator.html</guid>
-      <description>Calculate room coverage (750 sq ft), monthly SEER2 electricity cost ($23.68/mo), running watts (947W), and NEC breaker size (20A 230V) for the ROVUS / RovSun 18000 BTU 230V Split AC.</description>
     </item>
   </channel>
 </rss>
