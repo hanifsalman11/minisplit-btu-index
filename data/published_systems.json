@@ -598,5 +598,35 @@
     "seer2": 20.5,
     "sqft": 720,
     "date": "2026-10-29"
+  },
+  {
+    "system_name": "What  Mini Split For 400 Sq Ft",
+    "slug": "what-mini-split-for-400-sq-ft-btu-cost-calculator",
+    "title": "What  Mini Split For 400 Sq Ft BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the What  Mini Split For 400 Sq Ft.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 720,
+    "date": "2026-10-29"
+  },
+  {
+    "system_name": "What  Mini Split For 1200 Sq Ft",
+    "slug": "what-mini-split-for-1200-sq-ft-btu-cost-calculator",
+    "title": "What  Mini Split For 1200 Sq Ft BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the What  Mini Split For 1200 Sq Ft.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 720,
+    "date": "2026-10-29"
+  },
+  {
+    "system_name": "What  Mini Split For 500 Sq Ft",
+    "slug": "what-mini-split-for-500-sq-ft-btu-cost-calculator",
+    "title": "What  Mini Split For 500 Sq Ft BTU Sizing, SEER2 Power Cost & Breaker Calculator (2026)",
+    "description": "Calculate room coverage (720 sq ft), monthly SEER2 electricity cost ($21.92/mo), running watts (878W), and NEC breaker size (20A 230V) for the What  Mini Split For 500 Sq Ft.",
+    "btu": 18000,
+    "seer2": 20.5,
+    "sqft": 720,
+    "date": "2026-10-29"
   }
 ]
